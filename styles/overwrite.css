@@ -1,0 +1,39 @@
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.about{
+    color: rgb(17, 17, 138);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.list{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.bold{
+    font-weight: bold;
+}
+.center{
+    text-align: center;
+}
+.italic{
+    font-style: italic;
+}
+.homeheader{
+    font-variant-caps: small-caps;
+    font-family: unset;
+    font-size: 65px;
+    font-weight: bolder;
+
+}
+.subheader{
+    text-align: center;
+    font-size: 30px;
+    font-variant-caps: titling-caps;
+    font-family: fantasy;
+}
+.blue{
+    color: rgb(17, 17, 138);
+    font-weight: bold;
+}
